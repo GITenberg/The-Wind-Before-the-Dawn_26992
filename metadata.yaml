@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '32412'
     url: http://www.gutenberg.org/2009/agents/32412
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26992#The-Wind-Before-the-Dawn
 gutenberg_issued: '2008-10-22'
 gutenberg_type: Text
 identifiers:
