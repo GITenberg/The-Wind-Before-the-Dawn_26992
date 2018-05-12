@@ -1,0 +1,29 @@
+_repo: The-Wind-Before-the-Dawn_26992
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Munger, Dell H.
+    birthdate: 1862
+    gutenberg_agent_id: '32412'
+    url: http://www.gutenberg.org/2009/agents/32412
+description: ''
+gutenberg_issued: '2008-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26992'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kansas -- Fiction'
+- !lcsh 'Farmers'' spouses -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Married women -- Fiction'
+- !lcsh 'Farm life -- Fiction'
+- !lcc 'PS'
+title: The Wind Before the Dawn
+url: http://www.gutenberg.org/ebooks/26992
